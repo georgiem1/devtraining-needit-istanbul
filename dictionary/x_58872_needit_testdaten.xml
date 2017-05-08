@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="sys_import_set_row" label="testdaten" max_length="40" name="x_58872_needit_testdaten" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Feld1" max_length="40" name="u_feld1" type="string"/>
+        <element attributes="import_attribute_name=Feld1;Feld2;Feld3,edge_encryption_enabled=true" label="Feld1;Feld2;Feld3" max_length="40" name="u_feld1_feld2_feld3" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Feld2" max_length="40" name="u_feld2" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Feld3" max_length="40" name="u_feld3" type="string"/>
+    </element>
+</database>
